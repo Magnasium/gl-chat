@@ -12,9 +12,10 @@ Credits are appreciated but not required.
 ## Community & Support
 
 We are building a FiveM server and community.  
-Feel free to join us on Discord:
+Feel free to join us on Discord: licensev
 
 🔗 https://discord.gg/glrpg
+https://discord.gg/suWMMvT3rX
 
 ## Preview
 Video background, background music and a clean loading progress bar.
