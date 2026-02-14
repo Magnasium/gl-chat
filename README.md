@@ -30,6 +30,7 @@ https://discord.gg/suWMMvT3rX
 
 ## Features
 
+- https://youtu.be/8IT4Ggr3Q9E
 - Private Messaging: Includes a functional /pm command for direct communication.
 - Clean Design: The chat features a minimalist and sleek look.
 - User-Friendly & Customizable: A simple, eye-friendly chat interface that is fully editable to suit your needs.
