@@ -2,7 +2,7 @@
 
 ## Credits
 
-Created by **ByLicense**  
+Created by **Magnasium**  
 Free to use, edit and share.
 
 Credits are appreciated but not required.
@@ -12,7 +12,7 @@ Credits are appreciated but not required.
 ## Community & Support
 
 We are building a FiveM server and community.  
-Feel free to join us on Discord: licensev
+Feel free to join us on Discord: magnasium
 
 🔗 https://discord.gg/glrpg
 https://discord.gg/suWMMvT3rX
